@@ -54,5 +54,5 @@ containing Gerber files.
 
 ## Code
 
-I've written ARV sample code for using the dPAD. The
+I've written AVR sample code for using the dPAD. The
 code is well-commented and should be self-explanatory.
