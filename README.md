@@ -8,7 +8,7 @@ In particular, the PCB for dPAD implements the Parallel
 Resistor Ladder schematic described by Brian. You rock
 Brian!
 
-This code written by 2025 Bryn Mosher (BPM). It and
+This code written in 2025 Bryn Mosher (BPM). It and
 the PCB design are Public Domain.
 
 ## Hardware
