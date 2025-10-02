@@ -51,7 +51,13 @@ printed. For the more advanced users or those using
 services that requier them, there is also a zip
 containing Gerber files.
 
-![dPAD PCB Image](dpad_pcb.jpg)
+#### PCB Top
+
+![dPAD PCB Top Image](dpad_pcb.jpg)
+
+#### PCB Bottom
+
+![dPAD PCB Bottom Image](dpad_pcb_bottom.jpg)
 
 ## Code
 
